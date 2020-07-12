@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{77CE18C4-7882-4ED4-8A84-BBBD0E2A6147}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ToolTracker</RootNamespace>
+    <AssemblyName>ToolTracker</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FontAwesomeWPF, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesomeWPF.1.0.0\lib\net45\FontAwesomeWPF.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="SuperMessageBox">
+      <HintPath>..\SuperMessageBox.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SQLite, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.104.0\lib\net451\System.Data.SQLite.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.104.0\lib\net451\System.Data.SQLite.EF6.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.104.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.104.0\lib\net451\System.Data.SQLite.Linq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="Xceed.Wpf.AvalonDock, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.5.0\lib\net40\Xceed.Wpf.AvalonDock.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Aero, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.5.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.Aero.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Metro, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.5.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.Metro.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.VS2010, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.5.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.VS2010.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.Toolkit, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.5.0\lib\net40\Xceed.Wpf.Toolkit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Comparers\InmateComparer.cs" />
+    <Compile Include="Comparers\ShopEqualityComparer.cs" />
+    <Compile Include="Comparers\ShopComparer.cs" />
+    <Compile Include="Comparers\ToolComparer.cs" />
+    <Compile Include="DAL\InmatesRepository.cs" />
+    <Compile Include="DAL\OfficersRepository.cs" />
+    <Compile Include="DAL\Repository.cs" />
+    <Compile Include="DAL\ShopsRepository.cs" />
+    <Compile Include="DAL\TestDataSeeder.cs" />
+    <Compile Include="DAL\ToolsIssuedRepository.cs" />
+    <Compile Include="DAL\ToolsRepository.cs" />
+    <Compile Include="DAL\UnitOfWork.cs" />
+    <Compile Include="LoadingWait.xaml.cs">
+      <DependentUpon>LoadingWait.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.cs" />
+    <Compile Include="Models\ToolTrackerSettings.cs" />
+    <Compile Include="Models\ShopAssignment.cs" />
+    <Compile Include="Models\Inmate.cs" />
+    <Compile Include="Models\Officer.cs" />
+    <Compile Include="Models\Shop.cs" />
+    <Compile Include="Models\Tool.cs" />
+    <Compile Include="Models\ToolIssued.cs" />
+    <Compile Include="Models\ToolsIssuedFormInfo.cs" />
+    <Compile Include="Enums\InmateValidationStatus.cs" />
+    <Compile Include="FlowDoc1.xaml.cs">
+      <DependentUpon>FlowDoc1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\ToolTrackerDbContext.cs" />
+    <Compile Include="Helpers\ShopsHelper.cs" />
+    <Compile Include="Services\ErrorLogger.cs" />
+    <Compile Include="Services\ExceptionHandler.cs" />
+    <Compile Include="Services\ImportToolsService.cs" />
+    <Compile Include="Interfaces\IInmate.cs" />
+    <Compile Include="Interfaces\ITool.cs" />
+    <Compile Include="Migrations\201710110033208_InitialCreate.cs" />
+    <Compile Include="Migrations\201710110033208_InitialCreate.Designer.cs">
+      <DependentUpon>201710110033208_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201710122218072_ToolTrackerDbContext.cs" />
+    <Compile Include="Migrations\201710122218072_ToolTrackerDbContext.Designer.cs">
+      <DependentUpon>201710122218072_ToolTrackerDbContext.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration - Copy.cs" />
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Printing\DataSetPaginator.cs" />
+    <Compile Include="Printing\PrintingService.cs" />
+    <Compile Include="RTBPrintTest1.xaml.cs">
+      <DependentUpon>RTBPrintTest1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Services\NotifyUser.cs" />
+    <Compile Include="Services\SettingsService.cs" />
+    <Compile Include="Services\ToolTrackerService.cs" />
+    <Compile Include="SQLiteConfig\SQLiteConfiguration.cs" />
+    <Compile Include="SQLiteConfig\SQLiteConnectionFactory.cs" />
+    <Compile Include="TestLoaderWindow.xaml.cs">
+      <DependentUpon>TestLoaderWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\CheckToolOutInViewModel.cs" />
+    <Compile Include="ViewModels\SuperMsgBoxViewModel.cs" />
+    <Compile Include="ViewModels\ToolIssuedViewModel.cs" />
+    <Compile Include="ViewModels\ToolsIssuedShopGroup.cs" />
+    <Compile Include="ViewModels\ToolViewModel.cs" />
+    <Compile Include="Views\AboutWindow.xaml.cs">
+      <DependentUpon>AboutWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AddNewOfficerWindow.xaml.cs">
+      <DependentUpon>AddNewOfficerWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AddToolWindow.xaml.cs">
+      <DependentUpon>AddToolWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\InmateViewModel.cs" />
+    <Compile Include="Views\AddInmateWindow.xaml.cs">
+      <DependentUpon>AddInmateWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AddShopWindow.xaml.cs">
+      <DependentUpon>AddShopWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\CommonUISettings.cs" />
+    <Compile Include="Views\EditOfficerWindow.xaml.cs">
+      <DependentUpon>EditOfficerWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ImportToolsWindow.xaml.cs">
+      <DependentUpon>ImportToolsWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\NotifyExceptionWindow.xaml.cs">
+      <DependentUpon>NotifyExceptionWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\OfficerLoginWindow.xaml.cs">
+      <DependentUpon>OfficerLoginWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\SettingsWindow.xaml.cs">
+      <DependentUpon>SettingsWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TestLoadAnimationWindow.xaml.cs">
+      <DependentUpon>TestLoadAnimationWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TestWindow1.xaml.cs">
+      <DependentUpon>TestWindow1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TestWindow2.xaml.cs">
+      <DependentUpon>TestWindow2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Window2.xaml.cs">
+      <DependentUpon>Window2.xaml</DependentUpon>
+    </Compile>
+    <Page Include="FlowDoc1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FlowDocument1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LoadingWait.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="PrintTest1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\ButtonStylesDictionary.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RTBPrintTest1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TestLoaderWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\AboutWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\AddNewOfficerWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\AddToolWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\AddInmateWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\AddShopWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\EditOfficerWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ImportToolsWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\NotifyExceptionWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\OfficerLoginWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\SettingsWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\TestLoadAnimationWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\TestWindow1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\TestWindow2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Window1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Window2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PrintTest1.xaml.cs">
+      <DependentUpon>PrintTest1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Migrations\201710110033208_InitialCreate.resx">
+      <DependentUpon>201710110033208_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201710122218072_ToolTrackerDbContext.resx">
+      <DependentUpon>201710122218072_ToolTrackerDbContext.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Assests\Fonts\fontawesome-webfont.eot" />
+    <Resource Include="Assests\Fonts\fontawesome-webfont.ttf" />
+    <None Include="Assests\Fonts\fontawesome-webfont.woff" />
+    <None Include="Assests\Fonts\fontawesome-webfont.woff2" />
+    <Resource Include="Assests\Fonts\FontAwesome.otf" />
+    <None Include="Assests\Fonts\WT_____.PFB" />
+    <None Include="Assests\Fonts\WT_____.PFM" />
+    <None Include="Data\ToolTracker.db" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="TODO\TODO 10-9.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assests\Fonts\fontawesome-webfont.svg" />
+    <Resource Include="Assests\Images\ToolTrackerIcon_64x64.png" />
+    <Resource Include="Assests\Images\ToolTrackerIcon_128x128.png" />
+    <Resource Include="Assests\Images\ToolTrackerIcon_256x256.png" />
+    <Resource Include="Assests\Images\Fly 7.png" />
+    <Resource Include="Assests\Icons\EditCopy.png" />
+    <Resource Include="Assests\Images\Cry-icon-48.png" />
+    <Resource Include="Assests\Icons\dialog-important.ico" />
+    <Resource Include="Assests\Images\loader.gif" />
+    <Resource Include="Assests\Icons\Settings_48px.png" />
+    <Resource Include="Assests\Icons\document-import.png" />
+    <Resource Include="Assests\Icons\kgpg_edit.png" />
+    <Resource Include="Assests\Images\SmallHelloWorldLogo.png" />
+    <Resource Include="Assests\Images\400dpiLogo.png" />
+    <Resource Include="Assests\Icons\list-add.png" />
+    <Resource Include="Assests\Icons\Login Rounded Right_49x49px.png" />
+    <Resource Include="Assests\Icons\Login Rounded Right_48px.png" />
+    <Resource Include="Assests\Icons\Settings.png" />
+    <Resource Include="Assests\Icons\help-about-3.png" />
+    <Resource Include="Assests\Icons\configure-2.png" />
+    <Resource Include="Assests\Icons\configure-3.png" />
+    <Resource Include="Assests\Icons\application-exit-4.ico" />
+    <Resource Include="Assests\Icons\configure-4.ico" />
+    <Resource Include="Assests\Icons\application-exit-4.png" />
+    <Resource Include="Assests\Icons\configure-4.png" />
+    <Resource Include="TODO\TODO 11-15.txt" />
+    <Resource Include="Notes\Exceptions.txt" />
+    <Resource Include="Assests\Images\ToolTrackerIcon32x32.ico" />
+    <Resource Include="Assests\Images\ToolTrackerIcon64x64.ico" />
+    <Resource Include="Assests\Images\ToolTrackerLogo.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.104.0\build\net451\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.104.0\build\net451\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.104.0\build\net451\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.104.0\build\net451\System.Data.SQLite.Core.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,3 @@
+﻿Additional information: A TwoWay or OneWayToSource binding 
+cannot work on the read-only property 'ReceivedByInmateDisplayName' 
+of type 'ToolTracker.ViewModels.ToolIssuedViewModel'.

@@ -1,0 +1,47 @@
+﻿<Window x:Class="ToolTracker.Views.AddShopWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToolTracker.Views"
+        mc:Ignorable="d"
+        Title="AddShopWindow" Height="300" Width="400" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+
+    <Window.Resources>
+        <Style TargetType="Button" BasedOn="{StaticResource ResourceKey=PushButton}" />
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="10" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="120" />
+            <ColumnDefinition Width="240" />
+            <ColumnDefinition Width="10" />
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Add Shop" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Height="25" FontWeight="DemiBold" FontSize="18" />
+        <Label Grid.Row="2" Grid.Column="1" Height="25" HorizontalAlignment="Right" Content="Shop Name" />
+
+        <TextBox Grid.Row="2" Grid.Column="2" Name="textBoxShopName" Height="25" MaxLength="100" TextChanged="TextBoxShopName_OnTextChanged" />
+
+        <TextBlock Name="textBlockStatus" Grid.Row="3" Grid.Column="1" Height="25" Grid.ColumnSpan="2" HorizontalAlignment="Center" />
+        <StackPanel Orientation="Horizontal" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+            <Button Name="btnSave" Height="25" Width="75" Click="BtnSave_OnClick" IsDefault="True">
+                Save
+            </Button>
+            <TextBlock xml:space="preserve">    </TextBlock>
+            <Button Name="btnCancel" Height="25" Width="75" Click="BtnCancel_OnClick" IsCancel="True">
+                Cancel
+            </Button>
+        </StackPanel>
+
+    </Grid>
+</Window>

@@ -1,0 +1,8 @@
+﻿TODO 10-9
+
+*Seed dummy data
+*set up main window
+*set up 'login' window for officer
+*set up check/in out page
+	*user should select shop and inmate on same page
+	*select inmate with drop down list

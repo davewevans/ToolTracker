@@ -1,0 +1,67 @@
+﻿<Window x:Class="ToolTracker.Views.NotifyExceptionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToolTracker.Views"
+        mc:Ignorable="d"
+        Title="Error" Height="300" Width="400" Name="windowNotifyException" Loaded="NotifyExceptionWindow_OnLoaded" Icon="/Assests/Icons/dialog-important.ico" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+
+
+    <Window.Resources>
+
+        <Style TargetType="Button" BasedOn="{StaticResource ResourceKey=PushButton}" />
+
+
+
+        <Style TargetType="{x:Type Image}" x:Key="menuIconStyle">
+            <Setter Property="Width" Value="16"/>
+            <Setter Property="Height" Value="16" />
+            <Setter Property="Stretch" Value="Uniform" />
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="102*" />
+            <ColumnDefinition Width="276*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="21" />
+            <RowDefinition Height="23" />
+            <RowDefinition Height="47" />
+            <RowDefinition Height="27" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock Height="Auto" HorizontalAlignment="Left" Name="textBlockCaption" Text="Oh no! Something Went Wrong" VerticalAlignment="Top" Width="Auto" Grid.Column="1" FontSize="16" FontWeight="DemiBold" Margin="0,1,0,0" Grid.Row="1" />
+        <TextBlock Grid.Column="1" Grid.Row="2" Height="45" HorizontalAlignment="Left" Margin="0,2,0,0" Name="textBlockErrMsg" Text="Error Message" VerticalAlignment="Top" FontSize="14" TextTrimming="CharacterEllipsis" TextWrapping="Wrap" Width="276" />
+
+        <Image Grid.RowSpan="3" Height="97" HorizontalAlignment="Left" Margin="1,0,0,0" Name="image1" Stretch="Uniform" VerticalAlignment="Top" Width="92" Source="/Assests/Images/Cry-icon-48.png" Grid.Row="1" />
+      
+        <Button Style="{StaticResource ResourceKey=PushButton}" Content="Close" Grid.Column="1" Grid.Row="3" Height="23" HorizontalAlignment="Left" Margin="201,1,0,0" Name="buttonClose" VerticalAlignment="Bottom" Width="75" Click="ButtonClose_OnClick" />
+        <Expander Grid.Row="4" Header="Technical Details" Height="140" HorizontalAlignment="Left" Margin="1,0,0,0" Name="expanderDetails" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="377" Grid.RowSpan="2" Expanded="ExpanderDetails_OnExpanded" Collapsed="ExpanderDetails_OnCollapsed">
+            <StackPanel Orientation="Vertical">
+                <ScrollViewer Name="scrollViewerDetails" Width="375" Height="90" VerticalAlignment="Top" Margin="0,0,0,0">
+                    <TextBox Name="textBoxTechDetails" Height="Auto" Width="Auto" IsReadOnly="True" TextWrapping="WrapWithOverflow" BorderThickness="3" Padding="3">
+                        <TextBox.ContextMenu>
+                            <ContextMenu>
+                                <MenuItem Header="Copy" Command="Copy">
+                                    <MenuItem.Icon>
+                                        <Image Style="{StaticResource menuIconStyle}" Source="/Assests/Icons/EditCopy.png" />
+                                    </MenuItem.Icon>
+                                </MenuItem>
+                            </ContextMenu>
+                        </TextBox.ContextMenu>
+                    </TextBox>
+                </ScrollViewer>
+                
+                <Button Style="{StaticResource ResourceKey=PushButton}" Name="buttonCopyToClipboard" Height="23" Width="132" Margin="0,3,0,0" Click="ButtonCopyToClipboard_OnClick">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                        <Image Source="/Assests/Icons/EditCopy.png" />
+                        <TextBlock Text="Copy to Clipboard" Padding="4,0,0,0" />
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+        </Expander>
+    </Grid>
+</Window>

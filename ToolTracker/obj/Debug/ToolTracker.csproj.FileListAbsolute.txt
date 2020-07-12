@@ -1,0 +1,265 @@
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\ToolTracker.exe.config
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\ToolTracker.exe
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\ToolTracker.pdb
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\MainWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\App.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\ToolTracker_MarkupCompile.cache
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\ToolTracker_MarkupCompile.lref
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\MainWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\ToolTracker.g.resources
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\ToolTracker.Properties.Resources.resources
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\ToolTracker.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\ToolTracker.exe
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\ToolTracker.pdb
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\EntityFramework.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\FontAwesomeWPF.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\EntityFramework.xml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\FlowDocument1.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\PrintTest1.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\PrintTest1.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\FlowDoc1.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\FlowDoc1.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\RTBPrintTest1.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\RTBPrintTest1.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Window1.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Window1.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Window2.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Window2.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\ToolTracker.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\ToolTracker.Migrations.InitialCreate.resources
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Resources.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\ToolTracker.Migrations.ToolTrackerDbContext.resources
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\AddInmateWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\AddInmateWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\ToolTracker_Content.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\AddShopWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\AddShopWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\AddToolWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\AddToolWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\SettingsWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\SettingsWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\OfficerLoginWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\OfficerLoginWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\AddNewOfficerWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\AddNewOfficerWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\AboutWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\AboutWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\EditOfficerWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\EditOfficerWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\ImportToolsWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\ImportToolsWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\NotifyExceptionWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\NotifyExceptionWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Resources\ButtonStylesDictionary.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\App.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\SuperMessageBox.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\TestWindow1.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\TestWindow1.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\TestWindow2.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\Views\TestWindow2.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\LoadingWait.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\LoadingWait.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\System.Data.SQLite.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\System.Data.SQLite.xml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\TestLoaderWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\obj\Debug\TestLoaderWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\ToolTracker\ToolTracker\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\ToolTracker.exe.config
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\ToolTracker.exe
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\ToolTracker.pdb
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\EntityFramework.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\FontAwesomeWPF.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\SuperMessageBox.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\System.Data.SQLite.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\EntityFramework.xml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\System.Data.SQLite.xml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\ToolTracker.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\LoadingWait.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Resources\ButtonStylesDictionary.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\FlowDoc1.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\LoadingWait.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\MainWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\PrintTest1.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\RTBPrintTest1.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\TestLoaderWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\AboutWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\AddNewOfficerWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\AddToolWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\AddInmateWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\AddShopWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\EditOfficerWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\ImportToolsWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\NotifyExceptionWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\OfficerLoginWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\SettingsWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\TestWindow1.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\TestWindow2.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Window1.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Window2.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\App.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\ToolTracker_Content.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\ToolTracker_MarkupCompile.cache
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\ToolTracker_MarkupCompile.lref
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\App.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\FlowDoc1.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\FlowDocument1.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\MainWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\PrintTest1.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Resources.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\RTBPrintTest1.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\TestLoaderWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\AboutWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\AddNewOfficerWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\AddToolWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\AddInmateWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\AddShopWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\EditOfficerWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\ImportToolsWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\NotifyExceptionWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\OfficerLoginWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\SettingsWindow.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\TestWindow1.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\TestWindow2.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Window1.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Window2.baml
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\ToolTracker.g.resources
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\ToolTracker.Migrations.InitialCreate.resources
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\ToolTracker.Migrations.ToolTrackerDbContext.resources
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\ToolTracker.Properties.Resources.resources
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\ToolTracker.csproj.GenerateResource.cache
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\ToolTracker.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\ToolTracker.csproj.CopyComplete
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\ToolTracker.exe
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\ToolTracker.pdb
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\TestLoadAnimationWindow.g.cs
+C:\Users\Public\Documents\Hello World Projects\Tool Tracker\Tool Tracker with SQLite 12-5\ToolTracker\ToolTracker\obj\Debug\Views\TestLoadAnimationWindow.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\ToolTracker.exe.config
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\ToolTracker.exe
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\ToolTracker.pdb
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\EntityFramework.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\FontAwesomeWPF.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\System.Data.SQLite.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\EntityFramework.xml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\System.Data.SQLite.xml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\ToolTracker.csprojAssemblyReference.cache
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\LoadingWait.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Resources\ButtonStylesDictionary.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\FlowDoc1.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\LoadingWait.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\MainWindow.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\PrintTest1.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\RTBPrintTest1.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\TestLoaderWindow.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\AboutWindow.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\AddNewOfficerWindow.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\AddToolWindow.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\AddInmateWindow.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\AddShopWindow.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\EditOfficerWindow.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\ImportToolsWindow.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\NotifyExceptionWindow.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\OfficerLoginWindow.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\SettingsWindow.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\TestLoadAnimationWindow.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\TestWindow1.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\TestWindow2.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Window1.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Window2.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\App.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\ToolTracker_Content.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\ToolTracker_MarkupCompile.cache
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\ToolTracker_MarkupCompile.lref
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\App.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\FlowDoc1.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\FlowDocument1.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\MainWindow.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\PrintTest1.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Resources.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\RTBPrintTest1.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\TestLoaderWindow.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\AboutWindow.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\AddNewOfficerWindow.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\AddToolWindow.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\AddInmateWindow.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\AddShopWindow.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\EditOfficerWindow.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\ImportToolsWindow.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\NotifyExceptionWindow.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\OfficerLoginWindow.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\SettingsWindow.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\TestLoadAnimationWindow.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\TestWindow1.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Views\TestWindow2.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Window1.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\Window2.baml
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\ToolTracker.g.resources
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\ToolTracker.Migrations.InitialCreate.resources
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\ToolTracker.Migrations.ToolTrackerDbContext.resources
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\ToolTracker.Properties.Resources.resources
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\ToolTracker.csproj.GenerateResource.cache
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\ToolTracker.csproj.CoreCompileInputs.cache
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\ToolTracker.csproj.CopyComplete
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\ToolTracker.exe
+C:\Users\davew\source\repos\ToolTracker\ToolTracker\obj\Debug\ToolTracker.pdb

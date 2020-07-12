@@ -1,0 +1,47 @@
+﻿<Window x:Class="ToolTracker.Views.TestWindow1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToolTracker.Views"
+        mc:Ignorable="d"
+        Title="TestWindow1" Height="300" Width="600">
+    <Grid>
+
+        <Canvas>
+            <Image Width="50" Height="50" Source="/Assests/Images/Fly 7.png" RenderTransformOrigin="2.786,-0.7">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="676.31"/>
+                        <TranslateTransform X="-9.352" Y="77.467"/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.Loaded">
+                        <EventTrigger.Actions>
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Storyboard.TargetProperty="(Canvas.Left)"
+From="0" To="500" Duration="0:0:3"/>
+                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(Canvas.Top)"
+Duration="0:0:3">
+                                        <LinearDoubleKeyFrame Value="0" KeyTime="0:0:0"/>
+                                        <LinearDoubleKeyFrame Value="200" KeyTime="0:0:1"/>
+                                        <LinearDoubleKeyFrame Value="0" KeyTime="0:0:2"/>
+                                        <LinearDoubleKeyFrame Value="200" KeyTime="0:0:3"/>
+                                    </DoubleAnimationUsingKeyFrames>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger.Actions>
+                    </EventTrigger>
+                </Image.Triggers>
+            </Image>
+        </Canvas>
+
+
+        <Button x:Name="b" Content="Button" HorizontalAlignment="Left" Margin="106,196,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+
+    </Grid>
+</Window>

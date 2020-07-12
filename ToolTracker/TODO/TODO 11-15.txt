@@ -1,0 +1,21 @@
+﻿TODO 11-15
+
+*tighten up 'Add Inmate'
+*tighten up 'Add Tool'
+	-change 'Cancel' to 'I'm Finished' after one entry
+*add file menu
+*settings xml file
+*T-Man's changes
+*fix text width issue for print and view
+	-truncate with ...
+*About window
+*use super message box
+*officer login
+*report at top of page
+	-number of tools not checked in
+*remove header for each tab set to make room
+*parse spread sheet files
+*name of officer logged in at top
+*highlight row if checked out
+*font awesome
+*date range for tools issued
